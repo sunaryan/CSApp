@@ -1,0 +1,4027 @@
+        {
+          "data": {
+            "dfb9fdd4-8af6-4748-ac99-8415f1ccfb40": {
+              "account": "Wood PLC Limited",
+              "plays": {
+                "8f0b8d4a-266f-43aa-b323-4a8e1f540520": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "4148f006-4190-4cb5-8662-863292461d59": {
+                  "name": "QBR",
+                  "actions": [{
+                    "status": "pending",
+                    "due_date": "2017-06-18T02:53:40.093",
+                    "name": "check balancesheet",
+                    "completed_by": null,
+                    "owner": "Aniyus Kujur",
+                    "priority": "High",
+                    "description": "test qbr",
+                    "id": "65cc8013-36f7-4dce-983f-c206da0eb027",
+                    "completed_on": null
+                  }]
+                },
+                "be76250b-c780-4a6e-a25b-64b1c3f0823f": {
+                  "name": "collections",
+                  "actions": []
+                },
+                "57606415-1f7d-4291-b990-36f02faabc2e": {
+                  "name": "Collections",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-01-01T18:29:59",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "71c613de-2744-4a57-aaea-0e156d9872a9",
+                      "completed_on": "2017-05-25T13:05:50.607"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-13T18:29:59",
+                      "name": "Call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "07e414ed-296a-402e-b3c5-da4606b0e00b",
+                      "completed_on": "2017-05-25T13:05:48.586"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-18T18:29:59",
+                      "name": "test action one",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "test action one descr",
+                      "id": "61e77786-ab1a-4739-8d4e-e2265e17fd94",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-31T18:29:59",
+                      "name": "test action two",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "test action two description",
+                      "id": "19a9f917-1c47-4b66-aaf1-9156892abac8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-30T06:59:59",
+                      "name": "testing",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "testin",
+                      "id": "b0fa413d-2138-464c-98cf-d2d6f1401d07",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-07T18:29:59",
+                      "name": "testing",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "test this",
+                      "id": "b724f476-2dfe-4d2c-a98d-be15c61c5909",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-07T18:29:59",
+                      "name": "testing",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "test this",
+                      "id": "d8b35e2b-6287-4a1b-aafa-5e943c2fac2e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-19T18:29:59",
+                      "name": "test actionfive",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "tested",
+                      "id": "d910b128-15b1-471e-95f7-9bfee69fa12e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-19T18:29:59",
+                      "name": "test actionfive",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "tested",
+                      "id": "f655dbef-bbc0-4a12-aa45-e5715020a7ee",
+                      "completed_on": null
+                    }
+                  ]
+                }
+              },
+              "plan": "Basic",
+              "mrr": "20030.00"
+            },
+            "ed7c151c-425e-493a-bdc7-10ef37cca343": {
+              "account": "Becker LLC",
+              "plays": {
+                "f4f9ffc3-b60d-4db6-9681-f750d3d11aa9": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-04-01T18:29:59",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "8401a6a8-3f64-44f2-8ebd-6742e412a26f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-25T18:29:59",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello first",
+                      "id": "b68811a3-2d44-4743-90b4-1d466d928395",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "9d579108-5fe7-4e12-9928-1521f2c94137": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "10fb6272-a351-49c7-b990-b0bb0d4f8725": {
+                  "name": "QBR",
+                  "actions": [{
+                    "status": "pending",
+                    "due_date": "2017-06-18T02:53:43.468",
+                    "name": "check balancesheet",
+                    "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                    "owner": "Amy Turner",
+                    "priority": "High",
+                    "description": "test qbr",
+                    "id": "1828b9ee-e239-4c3d-ad35-9cfe7eda9370",
+                    "completed_on": null
+                  }]
+                },
+                "151a3828-5c0b-4cea-8c38-b5003b72236d": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-03-11T08:43:23.414",
+                      "name": "Call the customer",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "16f86291-a3b6-4347-9d3c-f6ea5bc210ac",
+                      "completed_on": "2017-06-19T09:26:01.548"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-03-17T16:13:20",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "26e0d1bd-d0a8-4acc-80b6-3295a9fc535e",
+                      "completed_on": "2017-07-20T09:42:47.657"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-03-22T08:43:22",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "ea16cbea-0224-47cb-8c24-4c565d2faefd",
+                      "completed_on": "2017-07-25T07:37:27.884"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-04-01T03:13:21",
+                      "name": "Call the customer",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "09fa92be-988a-4f2c-83fe-9fce68005f7c",
+                      "completed_on": "2017-07-20T09:42:48.452"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-28T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "3de5dd3d-b51e-4b1a-98f4-cc9384d69e30",
+                      "completed_on": "2017-06-27T10:59:22.438"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-28T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "b38e06c4-648d-497c-a7bb-4479cf69cb14",
+                      "completed_on": "2017-06-27T10:59:24.273"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-28T18:29:59",
+                      "name": "meeting with ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "meting with ceo",
+                      "id": "e9915780-5996-4ca2-a0f3-dee114c771da",
+                      "completed_on": "2017-06-27T10:59:20.242"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-28T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "a85d17f8-b56b-422a-a97a-50005fb7a79c",
+                      "completed_on": "2017-07-25T07:37:30.768"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "d75dcd0c-c26b-4d11-aed8-ee6d292acb1c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "0c8711b6-75ae-4c7f-a570-1179a32f4e59",
+                      "completed_on": "2017-07-20T09:42:49.144"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "39621b26-a3d1-4df8-8632-0924476ef4f7",
+                      "completed_on": "2017-07-06T09:47:51.927"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "d9685df5-9b47-4ce9-bfc0-917e3aa96339",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "579b4c52-21e8-4c53-be4c-5deab092b631",
+                      "completed_on": "2017-07-25T07:47:26.319"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "192a35d5-b19d-496d-8628-d429736f0a7a",
+                      "completed_on": "2017-07-25T07:47:24.798"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "f327de6a-8238-49fb-9af0-ba22b4cd5637",
+                      "completed_on": "2017-07-25T07:41:32.853"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "9c18fa1a-c345-415d-a2d9-81dd4caf120e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "d3a138b0-9eeb-493b-befd-55d742bf6718",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "0088f99e-bd8e-4f6b-be1c-dab0384c6c44",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "3e8e1f74-b1c9-4916-8a81-ed5dd8d30a7a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "91de2f95-b78a-4323-898a-1a1176b7a8cd",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "08c2ce64-5258-4a47-a95c-94d406a8e49f",
+                      "owner": "sameer rathod",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "ed92caff-2220-45fd-ab38-415f5675c36e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "46a3f9b6-d4d4-4fa0-8901-ad9280612744",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-29T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "097133c8-399b-4cd6-8db3-c04240257eb9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-30T18:29:59",
+                      "name": "call to ceo",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "call to ceo",
+                      "id": "8958a9e9-806e-4953-adf4-bc2a5f283b25",
+                      "completed_on": "2017-07-22T17:26:21.954"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2018-06-01T18:29:59",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "1b7fce43-6a4b-48d4-a50e-58b12d9116dc",
+                      "completed_on": "2017-07-22T17:26:09.456"
+                    }
+                  ]
+                }
+              },
+              "plan": "Professional",
+              "mrr": 0
+            },
+            "3132aec2-788b-4713-a335-ecb35d14faeb": {
+              "account": "Cameron-Jones",
+              "plays": {
+                "cbbf6664-39bb-4704-9c8e-6b8fb8668847": {
+                  "name": "QBR",
+                  "actions": [{
+                    "status": "completed",
+                    "due_date": "2017-06-18T02:53:41.733",
+                    "name": "check balancesheet",
+                    "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                    "owner": "Amy Turner",
+                    "priority": "High",
+                    "description": "test qbr",
+                    "id": "b62efe1d-3f53-4ee8-9b62-76d641418cfb",
+                    "completed_on": "2017-07-07T14:11:23.535"
+                  }]
+                },
+                "13e7733b-e5e4-4744-b7b2-012f0b82de53": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-01-07T13:31:22",
+                      "name": "one 1",
+                      "completed_by": "2276a27d-495f-4e4e-a6dd-8eadb862986a",
+                      "owner": "Aniyus Kujury",
+                      "priority": "Medium",
+                      "description": "abcvq",
+                      "id": "d227f498-5d32-45b6-840c-246601b955b8",
+                      "completed_on": "2017-06-19T08:04:13.130"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-08T13:31:28.445",
+                      "name": "First Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding first action",
+                      "id": "b95ce608-17ff-46df-a1ee-7c4c7e1afdc0",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-08T13:31:28.445",
+                      "name": "Call the customer 111",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "7d4e0865-44c1-4556-b569-39015f219796",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-08T13:31:28.445",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "e79872c2-a278-44b0-8ae0-ae6334177006",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T13:31:27.445",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "6bccf97a-ec43-44aa-bc51-193ff3366f1b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-15T13:31:27",
+                      "name": "test action Aa",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hey description",
+                      "id": "6a2593fa-126b-4855-bbbf-388af39d3c43",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-16T13:31:27",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "9827fd9b-dccb-4180-98c8-345acd6eeea9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-22T13:31:27",
+                      "name": "action test two",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test two decsription",
+                      "id": "3663b24a-ec18-4e3c-8422-e2eaad151446",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-28T13:31:26",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "d270487a-5567-4774-a6d0-fba5ecebfd59",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-12-22T13:31:27",
+                      "name": "Test Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hey new test action",
+                      "id": "8a965af1-0b10-4c36-9c1e-9138300c3436",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "e6102025-a490-44c4-90cc-bcdc90ddd5a7": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-01-25T06:31:21",
+                      "name": "Call the HR and CTO and CEO",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "call to HR !",
+                      "id": "f1a17e1a-b5d5-4b04-8fad-a45fa40af3fc",
+                      "completed_on": "2017-05-24T16:59:57.736"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-25T12:47:49",
+                      "name": "Call the client urgently",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Anand Vyas !",
+                      "id": "007b7901-6e90-4933-8022-8178e6d5d45d",
+                      "completed_on": "2017-05-24T17:00:02.292"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-25T17:23:58",
+                      "name": "Call the client urgently",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Anand Vyas !",
+                      "id": "04ad058c-c9b4-4d0e-8bca-023a21032552",
+                      "completed_on": "2017-05-24T17:00:03.122"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-25T17:46:34",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "967393ce-34bb-4a8c-8e50-e7eb16f8415e",
+                      "completed_on": "2017-05-24T17:00:04.279"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-25T20:21:03",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "f7911fa1-2bea-4f7c-a99e-7bf243e1beb2",
+                      "completed_on": "2017-05-24T17:00:11.127"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-26T00:46:57",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "62433a60-8b65-4d24-a27e-0581120cc05b",
+                      "completed_on": "2017-05-24T17:00:24.590"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-26T07:22:35",
+                      "name": "Call the client urgently",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Anand Vyas !",
+                      "id": "ccb96060-6654-488a-9dd5-dca33b7e5089",
+                      "completed_on": "2017-05-24T17:00:43.970"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-26T15:43:54",
+                      "name": "Call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "326dfff0-ec7c-4e43-bf4e-9a5a474febca",
+                      "completed_on": "2017-05-24T17:01:12.324"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-31T18:29:59",
+                      "name": "Adding testing action.",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "discription for testing action",
+                      "id": "11e1945a-25fa-40ae-9998-0a87b5e59734",
+                      "completed_on": "2017-05-24T17:01:01.798"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-31T18:30:00",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "5651069d-6bf8-4e2c-ab7c-5899ed3f148a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-01T18:29:59",
+                      "name": "new action",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "description of new action",
+                      "id": "a55f58c1-62df-4aef-9cc7-7b0175fca652",
+                      "completed_on": "2017-05-23T12:05:41.977"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-07-01T18:29:59",
+                      "name": "New action added by anand",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "new description",
+                      "id": "d837cfbf-fccb-4b92-a756-74371d38b102",
+                      "completed_on": "2017-05-23T12:56:13.559"
+                    }
+                  ]
+                },
+                "5d45844e-ef4a-4d0b-beb2-accf0a5a0ade": {
+                  "name": "Loss of Exec Sponsor",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-01-01T00:35:34.138",
+                      "name": "Call the HR and CTO and CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "call to HR !",
+                      "id": "6b727097-3f4d-4ea2-9711-772db7d8a12a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-01-01T01:35:34.154",
+                      "name": "CALL ANAND AND SHUBHAM",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "CALL AS SOON AS POSSIBLE",
+                      "id": "f71adacc-f29e-4604-a06e-d9a7044a63b2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-04-07T09:35:34.123",
+                      "name": "Call the client urgently",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Anand Vyas !",
+                      "id": "fa196838-0ff6-4f2c-bc17-860ad9958a22",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-02T03:35:34.091",
+                      "name": "CALL SHUBHAM GUPTA",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS URGENT AS POSSIBLE",
+                      "id": "10d9a3a5-c7d1-4ef6-bcbd-29b30c33fcbf",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-10T20:35:34.077",
+                      "name": "CALL MANDAVI",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call her and fix the meeting timing.",
+                      "id": "d7cba696-3d06-4fed-bf18-ac9f5cf90bef",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-30T12:35:34.031",
+                      "name": "CEO AND CTO AND MD",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "HELLO",
+                      "id": "45fbdf5c-1851-480d-82e6-e78fa716508c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-08-01T13:35:34.060",
+                      "name": "CALL UMESH THE CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "HELLO UMESH",
+                      "id": "f1bed567-cd85-410e-992b-40d8bffc1e04",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "852e01d0-d99d-4634-9f81-ee8fee880455": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "657bdee8-6ca2-429d-b284-eb0ada697249": {
+                  "name": "collections",
+                  "actions": []
+                }
+              },
+              "plan": "Basic",
+              "mrr": "95464.00"
+            },
+            "2bcdbd08-192d-90a1-6e74-9bf58d34fc75": {
+              "account": "MegaWeddings.com",
+              "plays": {
+                "67d04bc6-309c-4139-b299-31f165b1a3d8": {
+                  "name": "collections",
+                  "actions": []
+                },
+                "c1337484-4295-4894-375b-874678849de3": {
+                  "name": "ONBOARDING",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-14T03:49:55.819",
+                      "name": "test play",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "testplay",
+                      "id": "50f75283-9307-65c7-b59b-0e4bb5c635d6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-14T03:49:55.819",
+                      "name": "Account Setup",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "dummy description",
+                      "id": "14bbba02-b18a-12ac-92c5-cfe3e81ede3b",
+                      "completed_on": null
+                    }
+                  ]
+                }
+              },
+              "plan": "Professional",
+              "mrr": "10000.00"
+            },
+            "total_actions": 340,
+            "299361d6-3e37-444b-93fc-e0ccdfec03cd": {
+              "account": "Apple Private Limited..",
+              "plays": {
+                "a60fc28e-af8e-49f2-a8d8-87d2e6312741": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "dfasdfadf",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "dfasdfadfa",
+                      "id": "6949a57a-0d0d-43d7-b7a1-e7100bf71bc7",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "one 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "abcvq",
+                      "id": "03fc60fd-0e4e-4e19-b52f-b81e0b16f64a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "3b18174a-6f16-444b-8a7b-c2d80f6283a3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "ecb4c8e8-1dcb-48bf-8266-9af82c1e1347",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "Test Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hey new test action",
+                      "id": "06b8c68c-d9df-4beb-83f7-ca12d20b93eb",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "test action Aa",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hey description",
+                      "id": "38fb5509-9d07-44a5-992b-7561d854f5e0",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "action test two",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test two decsription",
+                      "id": "52c1ffb5-0083-4812-b528-909be20ae0c5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "b2f9dea2-46f7-4768-854c-9584be86ce30",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "action test one",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test one description",
+                      "id": "92e77785-9a06-4e2b-ae4f-4ffa7d10f766",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "Call the customer 111",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "d1063542-b242-41a5-8eba-889118772570",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "First Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding first action",
+                      "id": "de8dbcc7-d296-4b5c-9eb4-ab2b8e0d5959",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:30.875",
+                      "name": "dfasdfadsfa",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "dfasdfasdfadsfasdf",
+                      "id": "a5891bb5-a361-4d24-bf3f-e1c60dc8497d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-22T07:20:29.875",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "b2069978-c8db-4f17-aa13-e42a524f0b05",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "f1481a46-bd93-4582-a69a-9cd7d27ac424": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:57:43.888",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "bcb6a10e-fb4a-408c-a8d6-0ea16d9a7842",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-31T18:29:59",
+                      "name": "adding new action for test 123",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "adding test description",
+                      "id": "78e7a7dc-5769-451d-b0e0-5124c993ae42",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-01T18:29:59",
+                      "name": "adding new action for test",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "description for adding new action for test asd",
+                      "id": "e6a3a879-7d91-47f2-829b-25bce4c8771a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-01T06:59:59",
+                      "name": "AM-testing",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "testing",
+                      "id": "559e058c-c5e6-49f5-b752-841bde77f413",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "f1e4c5eb-e96b-4ee5-8118-23fdd1819682": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-18T14:54:18",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "49ee499d-1597-442b-920c-5fd7aadf6102",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Call to Anand",
+                      "id": "497c8966-017d-4afb-8154-8cdcc7935710",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "6e40b6fb-096f-46f5-a4f3-9be01e58162a": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "b5f4d9be-23ea-47a2-abcd-79a136bbf3f6": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-13T09:20:12",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello first",
+                      "id": "b41fd5d7-b1fb-4f64-acda-5f90deb0c36c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-21T07:20:21.783",
+                      "name": "new action for testing",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "do it as soon as possible",
+                      "id": "1d0e2ea2-93dc-4b3b-8df1-605b883fb628",
+                      "completed_on": "2017-06-19T07:25:52.259"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:21.783",
+                      "name": "First first",
+                      "completed_by": "f862f659-b136-4b9e-b0dc-2fe7cbe7abc1",
+                      "owner": "Mandavi Gupta",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "bf607a34-5bbd-4990-a446-902183dc8605",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:21.783",
+                      "name": "action test 1",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "test description 1",
+                      "id": "00144051-cc6f-42e1-8643-d57e1032b726",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-21T07:20:21.783",
+                      "name": "test action 2",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "test decsription 2",
+                      "id": "c67f5e26-d2f6-40e1-b53a-b94dc1a0be9c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-21T07:20:21.783",
+                      "name": "adding new action for test 123",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding test description",
+                      "id": "57cd6757-a932-4566-bfdc-08a2f3dbbb2d",
+                      "completed_on": "2017-06-19T07:25:34.277"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-23T07:20:20",
+                      "name": "adding new action for test",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "description for adding new action for test asd",
+                      "id": "eedd114f-825c-44be-b6d3-8c586ea68ce7",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "33bcf4b2-20c1-4051-820d-1d20230ef936": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                    "status": "pending",
+                    "due_date": "2017-06-23T12:59:56",
+                    "name": "First first",
+                    "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                    "owner": "Amy Turner",
+                    "priority": "High",
+                    "description": "g",
+                    "id": "43695408-9261-4974-bae8-aff1e7c2cb0f",
+                    "completed_on": null
+                  }]
+                }
+              },
+              "plan": "Basic",
+              "mrr": 0
+            },
+            "02ad90fa-a978-4d72-a944-40144ced5995": {
+              "account": "Decision Minds",
+              "plays": {
+                "093467e7-4a1d-4623-82a2-b9998dab2d57": {
+                  "name": "Collections",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "69098826-80be-4047-82fc-fcc6215a56d7",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "test action one",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "test action one descr",
+                      "id": "c7d8bb19-eb56-4ffc-b616-14bbd8df0631",
+                      "completed_on": "2017-06-09T11:22:37.360"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "Call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "89e2e60f-20a5-4443-bca4-c48c797825a2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "test action two",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "test action two description",
+                      "id": "580a134f-2322-4d95-acab-f5b231af11ed",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "CALL THE ACTION ONE 1",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "description 1",
+                      "id": "a1d826ac-1db0-4df4-8b06-7444ce993437",
+                      "completed_on": "2017-07-06T07:02:39.014"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-06-09T00:17:57.787",
+                      "name": "Call SHUBHAM",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "CALL HIM AS SOON AS POSSIBLE",
+                      "id": "bf3e0cd4-9d35-4926-b1ec-e32a605e7b33",
+                      "completed_on": "2017-06-07T00:21:31.462"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "Call to Anand",
+                      "id": "ae7a8211-3d29-4a3a-961d-a7e3f124ee27",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Call to Anand",
+                      "id": "e6b03168-e19c-47cc-a175-d846485ea450",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Call to Anand",
+                      "id": "a7e3ff5f-ba09-4a0a-b5f0-7ccf84c06648",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Call to Anand",
+                      "id": "d000f3ad-82c6-47b5-9995-7ae07dec85bb",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "cf46383b-4fc4-4fd3-9d6b-4e3d90e06f7c": {
+                  "name": "QBR",
+                  "actions": [{
+                    "status": "pending",
+                    "due_date": "2017-07-08T07:01:32.376",
+                    "name": "check balancesheet",
+                    "completed_by": null,
+                    "owner": "Aniyus Kujur",
+                    "priority": "High",
+                    "description": "test qbr",
+                    "id": "e4fb3df2-6f00-4583-8e72-bd6dbb2bb0b9",
+                    "completed_on": null
+                  }]
+                },
+                "fab7d244-34b4-45a0-a6dc-a9194755c3fc": {
+                  "name": "dropMRR",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action for qbr",
+                      "id": "8c7a15af-60f9-4688-87f3-cf8a8cbe04ce",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action for qbr",
+                      "id": "f7a534f1-898f-46c3-9c42-1e6caa4ead1a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test action for qbr",
+                      "id": "05acd253-455f-42f8-8a4b-da96a6cee728",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action for qbr",
+                      "id": "074fe855-e62b-4bf9-a71c-83f091c7b3c0",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test action for qbr",
+                      "id": "189dcb19-507a-4580-8472-d61f2261b46b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:01:00.697",
+                      "name": "test action for qbr",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action for qbr",
+                      "id": "7f53ba9f-04a2-4a55-b8a8-6099d222967e",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "244dd710-3798-45d5-8903-e7771a2d2b89": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "45be6691-c113-4e8e-8961-7942c1b56d8d": {
+                  "name": "Loss of Exec Sponsor",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "CEO AND CTO AND MD",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "HELLO",
+                      "id": "f4638036-9fd9-4843-9c54-4321b7774822",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "CALL UMESH THE CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "HELLO UMESH",
+                      "id": "3e0bb085-e7b7-4706-997c-78925da2b70e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "CALL MANDAVI",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call her and fix the meeting timing.",
+                      "id": "b2a46cea-c268-4334-b225-23cdc1ba65c2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "Call the client urgently",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Anand Vyas !",
+                      "id": "18642593-7cfb-402a-aaeb-169272e5dd75",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "CALL ANAND AND SHUBHAM",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "CALL AS SOON AS POSSIBLE",
+                      "id": "d08e836c-5320-4f1a-8787-ce5992277839",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "Call the HR and CTO and CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "call to HR !",
+                      "id": "18521860-5fb4-4aa3-b6be-4bb4e11064f6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:03.481",
+                      "name": "CALL SHUBHAM GUPTA",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS URGENT AS POSSIBLE",
+                      "id": "96ed5c92-c122-4efd-8159-73d92469f7e4",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "293f5452-515f-41ef-a64b-0a10d86e0a2f": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "dfasfasd",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "dfasdfasdfa",
+                      "id": "ed31293d-82a5-4064-ad0f-0d57e4084e70",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "4712b4a6-c796-41b0-a266-466ef5fd9502",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "new action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "description of new action",
+                      "id": "25e3b3ce-a758-4f3a-80fb-5ebce49111c4",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "1027a600-4668-4541-930a-c9aab7fc6be9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "bf47cf95-5216-41d6-988c-0e4d17600f4b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "356e1925-d541-4af3-95a8-e9a8be85e64f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "9f11b974-b20f-465f-b451-3f5185ec435f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "4623a1e3-e270-40cb-b091-916c67ee9000",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "a1f9443c-6365-4ea4-9793-b50bfcb2002f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "bf59095f-135e-46fe-98f7-9862d292dd2b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "65044d64-f8e5-4469-88ef-d69fcf46a313",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "817d6a3e-60bf-42b5-9f44-abbb23af97ac",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "1fa65eed-5268-4f63-8907-f22567c21962",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "79e8e335-da67-432c-abc6-39418d77867a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "92f4ce75-dd05-41c3-90c4-454160d0a178",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "65e73356-dc85-43f9-ae24-440dd4133546",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "c61a8e27-8a41-4c8d-95df-16940687a27e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "e024893c-e4b3-414b-86ad-ccccf55d04e5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Adding testing action.",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "discription for testing action",
+                      "id": "a3d4add2-0457-4e1a-85c0-529ccec955c2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "New action added by anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "new description",
+                      "id": "e04fd815-c26f-4878-80bf-7fc5141e2fd8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call and arrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "call to the client and arrange a meeting when the ceo is arriving",
+                      "id": "88f7d871-6003-4269-a647-164367af3059",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "c10ee187-0503-44d4-a8d7-089a8f919fb5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "dsfasdfas",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "dafsdfasdf",
+                      "id": "3dc1c3d9-9ac5-497a-ab57-892ff5a21021",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-08T07:00:42.907",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "90761205-1447-4f2a-a3c6-6651d00ea4b0",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "fd077383-e4db-4a64-b7e0-878aa2253b9a": {
+                  "name": "NPS Detracctor",
+                  "actions": []
+                }
+              },
+              "plan": "Professional",
+              "mrr": 0
+            },
+            "7894536c-3bc5-405e-bddf-e07cfa5fba02": {
+              "account": "Aranoah",
+              "plays": {
+                "58371a3e-50cf-4197-bc7a-7ab3aedd88e5": {
+                  "name": "Collections",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "test action two",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action two description",
+                      "id": "ffc37c77-b695-4e74-b656-326835dca224",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "092d5831-fc7c-4ee5-9c63-84789db5da78",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "CALL THE ACTION ONE 1",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "description 1",
+                      "id": "5c35f5cd-f289-4ed3-a7d1-58ddd764327e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "Call SHUBHAM",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "CALL HIM AS SOON AS POSSIBLE",
+                      "id": "b190f3c6-ed38-4638-8836-3f47402faec8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "Call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "f0b484fc-3ef7-472b-b0ca-67dfa3eb6b09",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:26.326",
+                      "name": "test action one",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test action one descr",
+                      "id": "615eed72-ef89-4960-a563-ac1fa278f617",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "08b460bb-63e8-4bd0-b35e-35c28d964eb0": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "f9dcaf77-f0bd-4569-bfd7-d1626e3c28cd": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "test action Aa",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hey description",
+                      "id": "533b1f42-f9cb-4804-a0ab-3c0e30947ee0",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "53c6f40b-be86-44a3-853b-fc98588d3c94",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Test Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hey new test action",
+                      "id": "5d553dbf-00e8-4118-9ba7-f00ef4702ac2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "First Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding first action",
+                      "id": "fa1286c6-8e8f-4b1e-9753-9ba13251972e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "3d1a2679-05ed-4459-aaf1-fcaea313a7d4",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "one 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "abcvq",
+                      "id": "96a45649-de19-4a41-a3ac-abb36b2b3b66",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Call the customer 111",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "245cb3ca-f3be-462b-84a9-ce74d8fe13d4",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "2f77e3f2-bed6-4fd8-8f43-1cd710c4d6ab",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "action test one",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test one description",
+                      "id": "74a16a0e-c40b-4df7-ac74-70891f7486d2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "9eff3925-3e74-4ec4-940f-b1ba80fc58b1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T13:49:00.730",
+                      "name": "action test two",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test two decsription",
+                      "id": "60605880-6604-44d1-9df5-d527a204059b",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "025887cb-3145-44bc-927f-8699618a3b14": {
+                  "name": "120 Days Until Renewal",
+                  "actions": []
+                },
+                "378cee9e-99da-49f8-a53d-47aa5f2dde74": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-25T08:35:13.700",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "165384c1-6fd4-4db0-a1b0-3f378f1985d8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-26T16:35:13.716",
+                      "name": "Call to anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "k",
+                      "id": "f4c705de-ac69-4437-a837-a130ad5f573d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-27T04:35:13.653",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello first",
+                      "id": "cc51c71b-2c4e-4c91-a3c1-8ec5811f3387",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-01T03:35:13.672",
+                      "name": "adding new action for test",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "description for adding new action for test asd",
+                      "id": "95a40cd5-a273-4c8c-98c7-354eec99e704",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-07T01:35:13.731",
+                      "name": "AM-testing",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "testing",
+                      "id": "b499f97a-36b0-4426-9c76-41f5f9bd9a6a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-07T09:35:13.746",
+                      "name": "Collections",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call to Anand",
+                      "id": "535fa068-eef1-466a-ac52-945037876832",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-31T14:35:13.546",
+                      "name": "adding new action for test 123",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding test description",
+                      "id": "d297f880-510c-407d-9a50-df5114c018b1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-08-01T19:35:13.575",
+                      "name": "new action for testing",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "do it as soon as possible",
+                      "id": "08240f92-bdb8-493a-bb33-4d97c71c3389",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-08-08T00:35:13.593",
+                      "name": "action test 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test description 1",
+                      "id": "70d463bd-6c9c-4915-b908-b23cef33c56f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-08-14T05:35:13.630",
+                      "name": "test action 2",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test decsription 2",
+                      "id": "d2aead0d-651d-4fee-8ed1-d6f0f4989fbc",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "11c1b870-da18-4aaf-b5d2-5c6497b6b828": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "action test 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test description 1",
+                      "id": "086d71eb-afaa-45c8-910c-80fb2bb0a0bb",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "new action for testing",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "do it as soon as possible",
+                      "id": "daea3742-8f09-4c24-b71c-fa35a779110b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "adding new action for test 123",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding test description",
+                      "id": "d21f0567-bbff-4984-9f99-b607540ff6f5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "test action 2",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test decsription 2",
+                      "id": "57df6ab5-94e8-44e0-8a65-c77699ed6ce3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "47a4eaad-2b43-4b0f-ab69-4fa18965b5be",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hello first",
+                      "id": "85c5e0bb-21d1-4d9a-b940-31d1e3b6f4be",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-04T08:19:28.912",
+                      "name": "adding new action for test",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "description for adding new action for test asd",
+                      "id": "f97bc454-cad8-40c3-90a6-b41923d03841",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "2f44dad0-2075-4605-86f2-5a44d8178a9e": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "b483c811-a80f-41f1-af3f-a6591bc614c3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "14cc0c68-dcfb-492a-9f96-8b14af0243b5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "9aa404b3-771f-4803-8982-b0f553cb6429",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "a17d910a-0505-430e-9b34-f015801c351c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "38132bb5-b4aa-4829-a3d5-31dca0b9f295",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "cc7662bb-8b17-44ce-986a-b2b490845644",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "82fc53a1-7309-4498-887e-1575c85dc11f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "a328072a-daf5-43f4-8008-f164f7cc7c18",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "836036b8-d57a-4ba6-8462-b11f57a3baa7",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "c39240be-ed43-49f3-839c-3009ffb84f29",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "8ecb1d1d-09ee-40cf-9b23-2010501fccc6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "6d792492-f7b4-42a6-8290-9deac3f37d0e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "ba7591c5-d233-4583-b83e-a7d579e2d753",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "03855e04-0b2f-467c-bfcd-c736f2a1aa37",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "0df128b6-323f-45c1-be7e-0ac3926fd06e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "6cd476c4-05b3-426c-b6ab-5cc268ba41b6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "fc7e4529-0eb1-4edc-a662-ff995541e2ce",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:45:28.456",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "6523bb6d-a8e7-48a8-8781-90c3da7d13cb",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "1fcd052d-7bc3-4adf-a6a2-b45e1effb951": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "7d9a375d-1a97-4884-8e11-b3ee076e43d6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the CEO",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "e78f20ea-ce75-422a-9ee0-96a7809cdcdc",
+                      "completed_on": "2017-06-28T09:15:16.841"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "d5f087d4-fe23-4862-8575-2b3da79ebcfd",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "39a20d0c-a30d-4231-89d4-3e0e372a3223",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "9626eaf0-8ae3-49fe-98a6-e822588118e2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "de08fe9f-71ea-487d-974c-11c99d925a8f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "110a2952-2d89-4f3d-8103-90ded18c07d7",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "9c99aee3-12b6-468a-8154-721a671cacfe",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "9d9dd26f-b6e2-4ea6-b5ae-9a7deb88969a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "014a7ddb-5d31-4987-9b4a-bfcf017f7828",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "95c99f7a-6d39-4dfa-9cbc-8fcf15a3434d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "086441bb-5c0c-4019-a6ed-db2700ac8c68",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "482383e5-e181-4b27-93dc-bd62ca2e6639",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "6ceb57cb-b4c3-4447-b0b9-10bf6155bcf9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "c41a0b02-ec01-4bd2-8ffa-38b70cd20ca9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "fb272aff-c6b2-47cd-a391-3163587422a4",
+                      "completed_on": "2017-05-25T09:39:09.438"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "e35e0c44-4626-4356-a5e5-1319b48887d6",
+                      "completed_on": "2017-05-25T09:46:12.310"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-03T12:24:26.441",
+                      "name": "Call Sameer",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "ccd60119-1c97-4dc5-b10a-1adf8c8eadac",
+                      "completed_on": "2017-05-25T09:46:38.421"
+                    }
+                  ]
+                },
+                "0e9e7f7c-da4a-4b4d-8f4b-ab75a1abfb08": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "f02ee80d-17d3-4b7b-be2c-c275241c191c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "31b34051-f1ea-4a1e-9100-ac4a9c5fa077",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "abcdc518-0295-43b7-a1b0-bca6d92170e8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "8c2132d0-11e3-4a0b-b707-a21dbd2429b7",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "cc0e79e9-1e1b-4ae9-ad52-2f1259ec72ce",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "47d85cf1-e90b-4111-af14-2fa8d4dc0ad1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "ff04a908-e9a4-45f6-8d43-8e13a8674489",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "56d35f46-77ef-45cb-b29c-b32c22b86ab1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "555028cb-0ec8-4ead-bd50-9f9a94d28bbc",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "864ae2f7-4a38-456a-bb02-8d4200ea841f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "cddc1fbb-131b-4cca-9787-2fa40e5ae73a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "3667aa57-f3bb-400c-96a7-fd9a9c21dfd6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "5e3fd8cc-2097-4a4f-91bb-5cd5756beaea",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "9cc043c1-e376-4b2b-b2fe-9de85b41b725",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "9027ee0f-5f5a-474d-aa10-fd6c2b75d4c6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "7f47ef88-2abf-4dd8-a683-8e9bbc3de262",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "c018734a-84f3-4e16-973a-1170f969f08d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:09.743",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "0a5a9063-5183-458c-85af-66729ab5f653",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "d8a28b43-ccfb-42b6-813e-0274c0b006fd": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "658c39e6-539c-48cd-b505-3640fcb1f5e8",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "bbf6edb3-a849-49e4-8e8a-f3c58f001776",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "e9c441df-cb7f-4fdf-b85d-417f2f998dbd",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "c1d515e7-c9e7-455c-8f8a-48ee96849c3d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "59d03ef9-597e-4e0a-a7a2-279c7fab0ab9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "f0577f0d-7ee8-41a9-b5bf-79b5a321eee4",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "76a0d94f-086b-4d19-83d8-98538266a8d3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "0e72a547-ed43-4775-ad25-6bb59a381401",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "0c3492e3-3528-473b-91ca-5c4042d5b23e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "91cca27e-f2cc-4811-932b-a659e99ef26f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "b7620360-8ae9-4fda-ae5a-897024b49160",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "cea5d242-09eb-4741-a509-d8c5d7df9c77",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "1acff3fc-9a67-4dcf-9b77-e103384d636c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "f2880dfe-fcca-4384-b96f-b4878fde00c3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "ff39d942-f5a5-44dd-8436-9da69f3efa43",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "20b0f5cd-eae9-4cef-a401-70baa9de2336",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "5c23f985-49cd-4ed1-9892-ed713c7cb547",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:28.052",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "8e296106-e204-4b7e-adbe-4aa37700d767",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "936f72cc-6026-413a-aa03-a45e58b8a070": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "b3dba1de-de66-41be-8a70-9a9bba1bc392",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "7f1e4820-8efc-41de-9a8c-e109391c341e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "cd642a81-bb68-48e9-9aea-138025befbcb",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "eb96052c-5e6b-492c-8188-df9d77b3864f",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "96ab177c-1bfc-4ac7-988b-8c0eef285c81",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "2fb9e41d-6322-407c-9507-923fe2bf7035",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "c2125adb-cc78-4f98-a67f-5729d781e812",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "ce785c64-9dea-4315-a5ce-ef6e5cc62a3a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "74546a1a-ef05-4b2e-ad18-5e5cc69f021b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "b72c2b63-cafb-4a25-ad80-dfdf99592aa1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "11e0835c-49e4-4419-942b-2f68540e6392",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "7f08c2bb-83ac-4eba-9132-e5791883a6d2",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "d4fa93c1-9498-4a0b-a1a6-7b460527ab36",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "cdf85336-a76a-4363-94ab-ef6a7869d3a9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "e05dffac-d87c-4c25-ac7a-fb9432e32473",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "2e6327fb-94dd-4124-9e2b-50df95fa5a3c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "6ffc88e3-00b4-47f0-a5fd-a056db4efb55",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-04T05:34:57.848",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "25ae8ad6-1cae-4855-bf6b-e4ea56ec07a3",
+                      "completed_on": null
+                    }
+                  ]
+                }
+              },
+              "plan": "Basic",
+              "mrr": 0
+            },
+            "0895749a-39f6-46b4-9be1-65565c0e1ab4": {
+              "account": "Mason-Montoya",
+              "plays": {
+                "9f732dc1-cd75-4ecf-8f0c-b2ceb6e30e72": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-01-12T18:29:57",
+                      "name": "Call the customer",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "f676df78-67e1-4be6-8911-6696f0d763f4",
+                      "completed_on": "2017-06-19T09:52:17.248"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-01-28T10:54:42",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "c727c7d9-9601-49fa-8391-1bac55d43211",
+                      "completed_on": "2017-06-16T05:25:05.975"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-02-12T18:30:00",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "afd534df-b78a-46e9-8b15-a2d82fb4ca46",
+                      "completed_on": "2017-06-16T05:24:55.803"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-29T18:29:55",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "4ccb63a7-0cf1-4531-8324-6c8f8718624e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-31T18:29:59",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "43071789-242c-4500-b3c0-a5de7e2499f1",
+                      "completed_on": "2017-06-16T05:24:57.292"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-11T18:29:53",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "c0ab23e9-2706-4a52-bb5f-f621186eaa6d",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "84c07f69-7dba-4d54-859c-c4fae8ae2ac0": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2016-11-02T18:29:58",
+                      "name": "action test one",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "action test one description",
+                      "id": "4e2aa438-16b1-4cc7-8e6d-2e7809d17842",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-03-04T12:53:42.052",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "e6b13495-6aa6-45b8-ad04-c3dc4d79a153",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-03-05T12:53:41.052",
+                      "name": "Call the customer",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "7ea30ebf-3b1a-463c-852e-58301e5ba070",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-03-17T07:11:16.654",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "1589c8eb-9b04-4636-8610-409ba483323e",
+                      "completed_on": "2017-06-12T09:48:25.733"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-03-20T06:54:38.019",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "9393ffef-112c-4a88-ae25-346f7f784fed",
+                      "completed_on": "2017-06-12T09:48:25.156"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-11T18:29:58",
+                      "name": "one 1",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "abcvq",
+                      "id": "e163eca2-f39e-4226-8cf1-303b57617c53",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-07-01T18:29:59",
+                      "name": "action test two",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "action test two decsription",
+                      "id": "59bb5d74-dbd1-4148-b275-b3df5d6caffa",
+                      "completed_on": "2017-06-12T09:50:24.003"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-09-27T18:29:59",
+                      "name": "dfasdfadsfa",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "dfasdfasdfadsfasdf",
+                      "id": "bb942b9e-0fd0-4e5a-9440-4f9db33d22f5",
+                      "completed_on": "2017-06-12T09:49:26.512"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-10-04T18:29:59",
+                      "name": "dfasdfadf",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "dfasdfadfa",
+                      "id": "af40187f-d3a7-41ff-bf26-b5f139eef655",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "d4dfafee-4d01-4a68-b577-be1c982ed48b": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                },
+                "5041301d-2c0a-46e8-bff7-1a62a2435c00": {
+                  "name": "Collections",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:27.693",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "ad0a6ec2-65f2-4b61-8024-ef7127861fd1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:27.693",
+                      "name": "Call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "f24c0699-4328-4c3a-9a1c-9fbd65aabbbe",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:27.693",
+                      "name": "test action two",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "test action two description",
+                      "id": "f7e5c590-8bd3-4476-ae2e-337276bc6b6b",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-09T00:08:27.693",
+                      "name": "test action one",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test action one descr",
+                      "id": "ecfaac4d-02b1-49da-ad93-d77c865053e6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-10T00:08:26.693",
+                      "name": "Call SHUBHAM",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "CALL HIM AS SOON AS POSSIBLE",
+                      "id": "b83ef97d-9bd6-433d-b527-1e568e36ce16",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-10T00:08:26.693",
+                      "name": "CALL THE ACTION ONE 1",
+                      "completed_by": "f862f659-b136-4b9e-b0dc-2fe7cbe7abc1",
+                      "owner": "Mandavi Gupta",
+                      "priority": "Medium",
+                      "description": "description 1",
+                      "id": "9bbd136f-50d2-4f11-8c56-b0b95705a3f6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-08-02T18:29:58",
+                      "name": "somwthing",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "sdaf",
+                      "id": "ed57047b-b5bb-48c4-8422-cde17bcbf534",
+                      "completed_on": "2017-06-19T11:04:29.764"
+                    }
+                  ]
+                },
+                "d9c98024-86a7-4197-ba91-ee9583ae8d9c": {
+                  "name": "collections",
+                  "actions": []
+                },
+                "1dfef399-47a2-4ff4-8c4e-93032607d2ca": {
+                  "name": "QBR",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-18T02:53:47.142",
+                      "name": "check balancesheet",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test qbr",
+                      "id": "b5b5138c-fef7-40a7-bc3f-d8a9d6f90ad5",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-07-06T18:29:59",
+                      "name": "Collections",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "n",
+                      "id": "0505b590-cc9a-4e6e-9af3-46232d57a7be",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "2a28777b-2fe5-4406-a796-2f8ee0f3e6ed": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-05-03T23:32:54",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "ac869630-a948-4a4a-b3b3-7cb5f6be25e6",
+                      "completed_on": "2017-06-19T14:21:18.754"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-20T18:29:59",
+                      "name": "Call to anand",
+                      "completed_by": "0d7da91d-df6b-4a66-bd94-25178dc3a474",
+                      "owner": "Mohan Gupta",
+                      "priority": "Medium",
+                      "description": "k",
+                      "id": "e23ad256-cb19-4465-8505-de0b9b91ec4e",
+                      "completed_on": null
+                    }
+                  ]
+                }
+              },
+              "plan": "Trial",
+              "mrr": "174376.00"
+            },
+            "current_user": "Amy Turner",
+            "d69b0ed2-a73a-48ad-a8f2-08734fbde0cd": {
+              "account": "DM SOC",
+              "plays": {
+                "75770cf1-b358-4080-99ef-526ce13b0fab": {
+                  "name": "Onboarding > X days",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-18T10:07:56",
+                      "name": "First first",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello first",
+                      "id": "c4f94c7c-bcb8-4a4f-b6d8-668c99f5c349",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:07:58.227",
+                      "name": "new action for testing",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "do it as soon as possible",
+                      "id": "0114f116-ea89-4334-a55b-ccba2b45a9d9",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:07:58.227",
+                      "name": "adding new action for test",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "description for adding new action for test asd",
+                      "id": "4252fd0d-fc4d-40a1-9850-733f80909f0a",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:07:58.227",
+                      "name": "adding new action for test 123",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding test description",
+                      "id": "a782f941-dad5-4529-b375-c7e9bf1eb8fb",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:07:58.227",
+                      "name": "action test 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test description 1",
+                      "id": "352bc1b6-ec3e-4388-aa04-bb1c487c9259",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:07:58.227",
+                      "name": "test action 2",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "test decsription 2",
+                      "id": "007eb235-f7ab-4cf6-8a81-25cd467e85bc",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-29T10:07:57.227",
+                      "name": "First first",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "g",
+                      "id": "e8aa2d41-219c-484b-b266-f9fcdce78871",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "f7ba7013-244d-4f53-a12d-aa6642f0e99f": {
+                  "name": "Collections",
+                  "actions": [{
+                      "status": "completed",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "test action one",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "test action one descr",
+                      "id": "33f2ba28-5e1e-4290-8d32-39cfb8f0c6b9",
+                      "completed_on": "2017-06-09T15:33:05.606"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "Call the client",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "Hello Anand!",
+                      "id": "e200ae28-8576-4026-8f0b-847457c4aab5",
+                      "completed_on": "2017-06-09T15:33:03.273"
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "Meet the CTO TWICE",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Low",
+                      "description": "click",
+                      "id": "31336c27-44a8-4bdb-96a0-a9e35a9515cd",
+                      "completed_on": "2017-06-09T15:33:01.174"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "Call SHUBHAM",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "High",
+                      "description": "CALL HIM AS SOON AS POSSIBLE",
+                      "id": "9711ce99-d1f4-4d30-acd8-2911494ff44d",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "test action two",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "test action two description",
+                      "id": "89acc335-9310-40be-a180-a6761b5f67bb",
+                      "completed_on": "2017-06-09T15:33:15.840"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:08:09.268",
+                      "name": "CALL THE ACTION ONE 1",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "description 1",
+                      "id": "820b820b-9816-414c-b56b-383992d64ff8",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "1bd90f05-7d24-489b-8b9a-f5311c5a260e": {
+                  "name": "QBR",
+                  "actions": [{
+                    "status": "pending",
+                    "due_date": "2017-06-18T03:16:42.538",
+                    "name": "check balancesheet",
+                    "completed_by": null,
+                    "owner": "Aniyus Kujur",
+                    "priority": "High",
+                    "description": "test qbr",
+                    "id": "cd176589-325d-4f80-9770-a382a3451bf5",
+                    "completed_on": null
+                  }]
+                },
+                "372637f4-b21e-44ec-8f39-e2481f7dbf87": {
+                  "name": "Decline in usage",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "First Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "adding first action",
+                      "id": "8ca017a0-1848-4011-9ee8-b67ce431cabf",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "completed",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "action test two",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "action test two decsription",
+                      "id": "9aeb5c5f-84ed-48c1-aec8-637daeb8c021",
+                      "completed_on": "2017-06-19T09:22:14.114"
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Hello Shubham Gupta ! How are you !",
+                      "id": "fbb29ca1-25cf-47bf-ab21-4238bdf06dc3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "Call the customer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello Anand How Are You ! FINE !;",
+                      "id": "b1e0fe9c-00b3-4658-b100-85c69bc2dd01",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "action test one",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "action test one description",
+                      "id": "17d91c2a-1273-46b1-848c-5b9f05c97224",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Quia voluptate non atque rem impedit eveniet. Nemo dolores quae iure sint odio modi itaque. Neque illo non quod fugiat tempore natus. Il",
+                      "id": "ac3dd49a-f5c9-4d33-9db7-09c2fd474f25",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "one 1",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "abcvq",
+                      "id": "3e3cef50-b0f3-463c-899c-b8957a316cdf",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "test action Aa",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "hey description",
+                      "id": "543b425e-66c2-46eb-b95d-7ed5e187bb47",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "Call the CMO and CTO f",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Hello Anand",
+                      "id": "de6c2678-a905-44db-92b5-4590c50fa546",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-28T10:10:18.681",
+                      "name": "Test Action",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hey new test action",
+                      "id": "7e3fa97e-dd7a-4737-a86e-6c2c6c1892b6",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-02T10:10:14",
+                      "name": "Call the customer 111",
+                      "completed_by": "fe96667a-674b-485d-a571-a3b2c1316c92",
+                      "owner": "Amy Turner",
+                      "priority": "Medium",
+                      "description": "hello latest tas",
+                      "id": "8a29e6ae-8d42-4e8e-923d-6e5912a1de6f",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "4bb2c5c0-3c78-4074-a441-fc6ed5a5f2c6": {
+                  "name": "Lapsed Renewal",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "Porro vel suscipit debitis in asperiores. Possimus vitae pariatur dolores recusandae distinctio maxime atque. Tenetur tenetur iusto rerum doloribus.",
+                      "id": "631cb257-4db9-4592-865d-a305408e092e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "call the client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "abc",
+                      "id": "17ab8116-ca2a-4b4b-b611-5c389f9d3991",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call to inform about company status",
+                      "id": "e7dcabd6-e5ec-4620-b62e-ff206e8be6ae",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the VP",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "call him",
+                      "id": "a456113d-42ba-466b-8ed1-8901c4af646c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Meet the CMO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Low",
+                      "description": "Meet him and discuss the product",
+                      "id": "08f7d500-5582-452a-9684-23a51453ec80",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Meet the CTO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello shubham gupta",
+                      "id": "733c9eb6-4ff3-4154-ad10-a25910789e13",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the VP/CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "09a9d078-1eb4-41a7-86b8-b0c35293c085",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call Sameer",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Hello",
+                      "id": "7a161867-efdb-4e72-ba1f-8335b03ffdde",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "289dfd24-d27b-4927-948c-9c905e67baf0",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Arrrange a meeting",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "arrange a meeting of all emplyees",
+                      "id": "555c1a2b-1b08-41a3-8e93-60d374d2004c",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Send the gift",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "ce80e123-acf9-42a8-8416-1efa1ce5b96e",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call Anand",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "",
+                      "id": "f53d2017-c339-457e-bd01-a46ca1bf03f3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the admin",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "call him soon today",
+                      "id": "9d11b657-9eaf-4246-a6ff-afae466226f3",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "CALL ANAND",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "Medium",
+                      "description": "CALL HIM AS YOU GET THE TIME",
+                      "id": "145ac195-75a1-4bba-945a-2483d6851210",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Arrange a quarterly business review with client",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "hello sameer",
+                      "id": "ee86e4c4-da95-430a-986a-f4996278e3f1",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call the CEO for a appointment",
+                      "id": "2f1ababd-77bc-422c-9841-ae6371961f62",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Call the CEO",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "Call him as urgent as possible",
+                      "id": "957d2116-006c-4585-afce-2ef2030d6408",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-05-19T14:55:19.159",
+                      "name": "Hello",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "bye",
+                      "id": "b0175f61-36f3-42a2-a1e5-5e29d9d6f1e9",
+                      "completed_on": null
+                    }
+                  ]
+                },
+                "84d2af67-a86c-4fef-be4f-f27eae8587f3": {
+                  "name": "ONBOARDING",
+                  "actions": []
+                }
+              },
+              "plan": "Enterprise",
+              "mrr": 0
+            },
+            "5789e6c6-33ad-e15c-6847-9876910d393e": {
+              "account": "MICRO LIMITED",
+              "plays": {
+                "b7af6666-a592-ca6f-2db4-9c100a301606": {
+                  "name": "ONBOARDING",
+                  "actions": [{
+                      "status": "pending",
+                      "due_date": "2017-06-14T09:56:42.059",
+                      "name": "test play",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "testplay",
+                      "id": "c3172300-b6d4-b49f-051b-9ad7d7417841",
+                      "completed_on": null
+                    },
+                    {
+                      "status": "pending",
+                      "due_date": "2017-06-14T09:56:42.059",
+                      "name": "Account Setup",
+                      "completed_by": null,
+                      "owner": "Aniyus Kujur",
+                      "priority": "High",
+                      "description": "dummy description",
+                      "id": "7240bea6-f5d8-9657-0dbc-8c0a62ce9a63",
+                      "completed_on": null
+                    }
+                  ]
+                }
+              },
+              "plan": "Professional",
+              "mrr": 0
+            }
+          },
+          "success": true
+        }
